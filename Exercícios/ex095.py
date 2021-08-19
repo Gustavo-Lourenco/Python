@@ -1,3 +1,4 @@
+# Esse programa foi desenvolvido para trabalhar com o uso de listas e dicionários de forma interativa.
 hist = dict()
 tabela = list()
 gols = list()
